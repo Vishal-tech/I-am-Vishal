@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vishal T</h1>
-<h3 align="center">A passionate frontend developer with impressive knowledge on ReactJS</h3>
+<h3 align="center">A passionate front-end developer with impressive knowledge of ReactJS and trying to explore backend technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal-tech&label=Profile%20views&color=0e75b6&style=flat" alt="vishal-tech" /> </p>
 
-- 💬 Ask me about **ReactJS,Frontend development**
+- 👨‍💻 All of my projects are available in my **github profile**
+
+- 💬 Ask me about **ReactJS,Frontend development,NodeJS**
 
 - 📫 How to reach me **vishalthiyag18@gmail.com**
 
